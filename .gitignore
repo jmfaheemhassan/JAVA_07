@@ -1,0 +1,13 @@
+# Compiled class files
+bin/
+*.class
+
+#VS Code setting
+.vscode/
+
+# OS-generated files
+.DS_store
+Thumbs.db
+
+#logs
+*.log
